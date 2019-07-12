@@ -2,6 +2,7 @@ class EulerOne:
 
     def __init__(self, maximum):
         self.maximum = maximum
+        self.one_to_max = range(1, maximum)
 
     @staticmethod
     def multiple_of_3_or_5(number):
@@ -10,9 +11,9 @@ class EulerOne:
         else:
             return None
 
-    def sum_divisible_one_and_fives(self):
+    def sum_divisible_three_and_five(self):
         result = 0
-        for i in range(1, self.maximum):
+        for i in self.one_to_max:
             if self.multiple_of_3_or_5(i):
                 result += i
         return result
@@ -22,13 +23,13 @@ class EulerOne:
             filter(
                 lambda i: i is not None,
                 list(
-                    self.multiple_of_3_or_5(i) for i in (range(1, self.maximum)))))
+                    self.multiple_of_3_or_5(i) for i in self.one_to_max)))
 
     def functional_sum_less_explicit(self):
         return sum(
-            filter(None,
-                   (self.multiple_of_3_or_5(i) for i in (range(1, self.maximum)))))
+            filter(None,  # if function is None return items that is not None
+                   (self.multiple_of_3_or_5(i) for i in self.one_to_max)))
 
-    def functional_sum2(self):
+    def functional_sum_with_comprehension(self):
         return sum(
-            (i for i in range(1, self.maximum) if self.multiple_of_3_or_5(i) is not None))
+            (i for i in self.one_to_max if self.multiple_of_3_or_5(i) is not None))
