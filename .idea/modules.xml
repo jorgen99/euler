@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/euler.iml" filepath="$PROJECT_DIR$/.idea/euler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/go/go.iml" filepath="$PROJECT_DIR$/src/go/go.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/haskell/haskell.iml" filepath="$PROJECT_DIR$/src/haskell/haskell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/python/python.iml" filepath="$PROJECT_DIR$/src/python/python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/ruby/ruby.iml" filepath="$PROJECT_DIR$/src/ruby/ruby.iml" />
+    </modules>
+  </component>
+</project>
