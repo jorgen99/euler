@@ -31,6 +31,10 @@ class EulerTwoTest(unittest.TestCase):
         sum_even_terms = self.euler_two.sum_even_terms(4000000)
         assert_that(sum_even_terms, is_(4613732))
 
+    def test_euler_two_func(self):
+        sum_even_terms = self.euler_two.sum_even_terms_recursive(4000000)
+        assert_that(sum_even_terms, is_(4613732))
+
 
 if __name__ == '__main__':
     unittest.main()
