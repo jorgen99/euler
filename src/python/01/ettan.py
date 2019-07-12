@@ -27,7 +27,7 @@ class EulerOne:
 
     def functional_sum_less_explicit(self):
         return sum(
-            filter(None,  # if function is None return items that is not None
+            filter(None,  # if function is None return items that are not None
                    (self.multiple_of_3_or_5(i) for i in self.one_to_max)))
 
     def functional_sum_with_comprehension(self):

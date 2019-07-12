@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9730d68c-250b-49e2-996c-7528f9e93949" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/python/01/ettan.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/python/01/ettan.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/python/01/ettan_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/python/01/ettan_test.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +32,7 @@
             <entry file="file://$PROJECT_DIR$/src/python/01/ettan.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="493">
-                  <caret line="29" selection-start-line="29" selection-end-line="29" />
+                  <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
@@ -605,7 +604,7 @@
     <entry file="file://$PROJECT_DIR$/src/python/01/ettan.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
         </state>
       </provider>
     </entry>
