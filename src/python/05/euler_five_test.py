@@ -16,10 +16,6 @@ class EulerFiveTest(unittest.TestCase):
         up_to_twenty = self.euler_five.smallest_multiple(20)
         assert_that(up_to_twenty, is_(232792560))
 
-    def test_division_with_one_to_twenty_2(self):
-        up_to_twenty = self.euler_five.smallest_multiple_2(20)
-        assert_that(up_to_twenty, is_(232792560))
-
 
 if __name__ == '__main__':
     unittest.main()
