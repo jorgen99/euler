@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9730d68c-250b-49e2-996c-7528f9e93949" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/python/02/euler_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/python/02/euler_two.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/python/02/euler_two_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/python/02/euler_two_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/python/05/euler_five.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/python/05/euler_five.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/python/05/euler_five_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/python/05/euler_five_test.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,27 +14,53 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="347" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.45620438">
+    <splitter split-orientation="horizontal" split-proportion="0.478125">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/python/01/ettan.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="595">
-                  <caret line="35" selection-start-line="35" selection-end-line="35" />
+                <state relative-caret-position="238">
+                  <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/python/02/euler_two.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="663">
-                  <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+                <state relative-caret-position="425">
+                  <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/python/03/euler_three.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="238">
+                  <caret line="14" column="9" selection-start-line="9" selection-end-line="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/ruby/05/five.rb">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/python/05/euler_five.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="238">
+                  <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
                 </state>
               </provider>
             </entry>
@@ -41,23 +69,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/python/01/ettan_test.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="408">
-                  <caret line="24" selection-start-line="22" selection-end-line="24" />
-                  <folding>
-                    <element signature="e#0#15#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/python/02/euler_two_test.py">
+            <entry file="file://$PROJECT_DIR$/src/python/05/euler_five_test.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="578">
-                  <caret line="34" column="51" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+                <state relative-caret-position="340">
+                  <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
                   <folding>
                     <element signature="e#0#15#0" expanded="true" />
                   </folding>
@@ -83,8 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/ruby/1/ettan_test.rb" />
-        <option value="$PROJECT_DIR$/src/main/python/1/ettan.py" />
         <option value="$PROJECT_DIR$/src/test/python/1/ettan_test.py" />
         <option value="$PROJECT_DIR$/src/01/ettan.rb" />
         <option value="$PROJECT_DIR$/src/02/test_tvaan.rb" />
@@ -99,6 +113,13 @@
         <option value="$PROJECT_DIR$/src/python/02/fib.py" />
         <option value="$PROJECT_DIR$/src/python/02/euler_two_test.py" />
         <option value="$PROJECT_DIR$/src/python/02/euler_two.py" />
+        <option value="$PROJECT_DIR$/src/python/03/euler_three.py" />
+        <option value="$PROJECT_DIR$/src/python/03/euler_three_test.py" />
+        <option value="$PROJECT_DIR$/src/ruby/04/four.rb" />
+        <option value="$PROJECT_DIR$/src/python/04/euler_four.py" />
+        <option value="$PROJECT_DIR$/src/python/04/euler_four_test.py" />
+        <option value="$PROJECT_DIR$/src/python/05/euler_five_test.py" />
+        <option value="$PROJECT_DIR$/src/python/05/euler_five.py" />
       </list>
     </option>
   </component>
@@ -163,14 +184,22 @@
               <item name="euler" type="b2602c69:ProjectViewProjectNode" />
               <item name="euler" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ruby" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="euler" type="b2602c69:ProjectViewProjectNode" />
               <item name="euler" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ruby" type="462c0819:PsiDirectoryNode" />
-              <item name="01" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="euler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,7 +222,7 @@
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (144)" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.7" />
     <property name="jdk.selected.RUBY_MODULE" value="RVM: ruby-2.4.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/python/1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/python/05" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -202,16 +231,22 @@
     <property name="project.structure.side.proportion" value="0.1820449" />
     <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
   </component>
+  <component name="PyCoverageOptionsProvider">
+    <option name="myUseBundledCoveragePy" value="true" />
+  </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/python/1" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ruby/05" />
       <recent name="$PROJECT_DIR$/src/hask" />
       <recent name="$PROJECT_DIR$/src/main" />
       <recent name="$PROJECT_DIR$/src/test/ruby/2" />
       <recent name="$PROJECT_DIR$/src/test/ruby/4" />
-      <recent name="$PROJECT_DIR$/src/test/ruby/5" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/python/05" />
+      <recent name="$PROJECT_DIR$/src/python/04" />
+      <recent name="$PROJECT_DIR$/src/python/03" />
+      <recent name="$PROJECT_DIR$/src/main/python/1" />
     </key>
   </component>
   <component name="RubyModuleManagerSettings">
@@ -234,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for euler_two_test.EulerTwoTest.test_euler_two_func">
+  <component name="RunManager" selected="Python tests.Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_twenty_2">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -254,6 +289,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="euler_five" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/python/05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/python/05/euler_five.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unittests for ettan_test.EulerOneTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,129 +326,114 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for euler_two_test.EulerTwoTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_ten" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/python/02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/python/05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;euler_two_test.EulerTwoTest&quot;" />
+      <option name="_new_target" value="&quot;euler_five_test.EulerFiveTest.test_division_with_one_to_ten&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for euler_two_test.EulerTwoTest.test_euler_two" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_twenty" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/python/02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/python/05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;euler_two_test.EulerTwoTest.test_euler_two&quot;" />
+      <option name="_new_target" value="&quot;euler_five_test.EulerFiveTest.test_division_with_one_to_twenty&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for euler_two_test.EulerTwoTest.test_euler_two_func" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_twenty_2" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/python/02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/python/05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;euler_two_test.EulerTwoTest.test_euler_two_func&quot;" />
+      <option name="_new_target" value="&quot;euler_five_test.EulerFiveTest.test_division_with_one_to_twenty_2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for euler_two_test.EulerTwoTest.test_fib_four" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in euler_four_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/python/02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/python/04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;euler_two_test.EulerTwoTest.test_fib_four&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for euler_two_test.EulerTwoTest.test_fib_seq_four" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/python/02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;euler_two_test.EulerTwoTest.test_fib_seq_four&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/python/04/euler_four_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for euler_two_test.EulerTwoTest.test_euler_two_func" />
-        <item itemvalue="Python tests.Unittests for euler_two_test.EulerTwoTest" />
-        <item itemvalue="Python tests.Unittests for euler_two_test.EulerTwoTest.test_euler_two" />
-        <item itemvalue="Python tests.Unittests for euler_two_test.EulerTwoTest.test_fib_seq_four" />
-        <item itemvalue="Python tests.Unittests for euler_two_test.EulerTwoTest.test_fib_four" />
+        <item itemvalue="Python tests.Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_twenty_2" />
+        <item itemvalue="Python tests.Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_twenty" />
+        <item itemvalue="Python.euler_five" />
+        <item itemvalue="Python tests.Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_ten" />
+        <item itemvalue="Python tests.Unittests in euler_four_test.py" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
   <component name="TestHistory">
-    <history-entry file="Unittests_for_euler_two_test_EulerTwoTest_test_euler_two - 2019.07.12 at 23h 47m 40s.xml">
-      <configuration name="Unittests for euler_two_test.EulerTwoTest.test_euler_two" configurationId="tests" />
+    <history-entry file="Unittests_for_euler_five_test_EulerFiveTest_test_division_with_one_to_twenty - 2019.07.17 at 00h 59m 23s.xml">
+      <configuration name="Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_twenty" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_euler_two_test_EulerTwoTest_test_euler_two - 2019.07.12 at 23h 48m 30s.xml">
-      <configuration name="Unittests for euler_two_test.EulerTwoTest.test_euler_two" configurationId="tests" />
+    <history-entry file="Unittests_for_euler_five_test_EulerFiveTest_test_division_with_one_to_twenty - 2019.07.17 at 01h 02m 28s.xml">
+      <configuration name="Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_twenty" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_euler_two_test_EulerTwoTest_test_euler_two - 2019.07.12 at 23h 48m 40s.xml">
-      <configuration name="Unittests for euler_two_test.EulerTwoTest.test_euler_two" configurationId="tests" />
+    <history-entry file="Unittests_for_euler_five_test_EulerFiveTest_test_division_with_one_to_twenty - 2019.07.17 at 21h 40m 51s.xml">
+      <configuration name="Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_twenty" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_euler_two_test_EulerTwoTest_test_euler_two - 2019.07.12 at 23h 49m 26s.xml">
-      <configuration name="Unittests for euler_two_test.EulerTwoTest.test_euler_two" configurationId="tests" />
+    <history-entry file="Unittests_for_euler_five_test_EulerFiveTest_test_division_with_one_to_twenty - 2019.07.18 at 18h 55m 07s.xml">
+      <configuration name="Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_twenty" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_euler_two_test_EulerTwoTest_test_euler_two - 2019.07.12 at 23h 51m 01s.xml">
-      <configuration name="Unittests for euler_two_test.EulerTwoTest.test_euler_two" configurationId="tests" />
+    <history-entry file="Unittests_for_euler_five_test_EulerFiveTest_test_division_with_one_to_twenty - 2019.07.18 at 19h 01m 43s.xml">
+      <configuration name="Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_twenty" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_euler_two_test_EulerTwoTest_test_euler_two - 2019.07.12 at 23h 51m 20s.xml">
-      <configuration name="Unittests for euler_two_test.EulerTwoTest.test_euler_two" configurationId="tests" />
+    <history-entry file="Unittests_for_euler_five_test_EulerFiveTest_test_division_with_one_to_twenty - 2019.07.18 at 19h 02m 08s.xml">
+      <configuration name="Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_twenty" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_euler_two_test_EulerTwoTest - 2019.07.12 at 23h 52m 02s.xml">
-      <configuration name="Unittests for euler_two_test.EulerTwoTest" configurationId="tests" />
+    <history-entry file="Unittests_for_euler_five_test_EulerFiveTest_test_division_with_one_to_twenty - 2019.07.18 at 19h 04m 41s.xml">
+      <configuration name="Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_twenty" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_euler_two_test_EulerTwoTest_test_euler_two_func - 2019.07.13 at 00h 10m 20s.xml">
-      <configuration name="Unittests for euler_two_test.EulerTwoTest.test_euler_two_func" configurationId="tests" />
+    <history-entry file="Unittests_for_euler_five_test_EulerFiveTest_test_division_with_one_to_twenty_2 - 2019.07.18 at 19h 06m 48s.xml">
+      <configuration name="Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_twenty_2" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_euler_two_test_EulerTwoTest_test_euler_two_func - 2019.07.13 at 00h 10m 56s.xml">
-      <configuration name="Unittests for euler_two_test.EulerTwoTest.test_euler_two_func" configurationId="tests" />
+    <history-entry file="Unittests_for_euler_five_test_EulerFiveTest_test_division_with_one_to_twenty_2 - 2019.07.18 at 19h 07m 20s.xml">
+      <configuration name="Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_twenty_2" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_euler_two_test_EulerTwoTest_test_euler_two_func - 2019.07.13 at 00h 14m 42s.xml">
-      <configuration name="Unittests for euler_two_test.EulerTwoTest.test_euler_two_func" configurationId="tests" />
+    <history-entry file="Unittests_for_euler_five_test_EulerFiveTest_test_division_with_one_to_twenty_2 - 2019.07.18 at 19h 09m 59s.xml">
+      <configuration name="Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_twenty_2" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1683" y="23" width="1567" height="1417" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16065574" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16065574" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -399,7 +441,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4993895" weight="0.32872504" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.33947772" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.33947772" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -408,11 +450,12 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.23041475" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5009836" side_tool="true" weight="0.32872504" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32949308" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4990164" weight="0.32872504" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32983607" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24983607" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="PlantUML" order="5" />
@@ -438,34 +481,46 @@
           <line>9</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/python/05/euler_five_test.py</url>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_three_test_EulerThreeTest_test_trial_division_of_13195.coverage" NAME="Unittests for euler_three_test.EulerThreeTest.test_trial_division_of_13195 Coverage Results" MODIFIED="1563217678603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/03" />
+    <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_three_test_EulerThreeTest_test_prime_factors_of_600851475143.coverage" NAME="Unittests for euler_three_test.EulerThreeTest.test_prime_factors_of_600851475143 Coverage Results" MODIFIED="1563224159544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/03" />
+    <SUITE FILE_PATH="coverage/euler$euler_five.coverage" NAME="euler_five Coverage Results" MODIFIED="1563469621805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/05" />
+    <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_five_test_EulerFiveTest_test_division_with_one_to_twenty.coverage" NAME="Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_twenty Coverage Results" MODIFIED="1563470460936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/05" />
+    <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_four_test_EulerFourTest_test_2_digit_numbers.coverage" NAME="Unittests for euler_four_test.EulerFourTest.test_2_digit_numbers Coverage Results" MODIFIED="1563228217759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/04" />
+    <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_four_test_EulerFourTest_test_is_palindrome.coverage" NAME="Unittests for euler_four_test.EulerFourTest.test_is_palindrome Coverage Results" MODIFIED="1563226807165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/04" />
+    <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_three_test_EulerThreeTest_test_prime_numbers_up_to_12.coverage" NAME="Unittests for euler_three_test.EulerThreeTest.test_prime_numbers_up_to_12 Coverage Results" MODIFIED="1563214574239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/03" />
+    <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_five_test_EulerFiveTest_test_division_with_one_to_ten.coverage" NAME="Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_ten Coverage Results" MODIFIED="1563317544523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/05" />
+    <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_three_test_EulerThreeTest_test_prime_factors_of_13195.coverage" NAME="Unittests for euler_three_test.EulerThreeTest.test_prime_factors_of_13195 Coverage Results" MODIFIED="1563223415312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/03" />
+    <SUITE FILE_PATH="coverage/euler$Unittests_in_euler_three_test_py.coverage" NAME="Unittests in euler_three_test.py Coverage Results" MODIFIED="1563225101259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/03" />
+    <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_three_test_EulerThreeTest_test_it_should_return_True_for_actual_primes.coverage" NAME="Unittests for euler_three_test.EulerThreeTest.test_it_should_return_True_for_actual_primes Coverage Results" MODIFIED="1563219098021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/03" />
+    <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_two_test_EulerTwoTest_test_fib_ten.coverage" NAME="Unittests for euler_two_test.EulerTwoTest.test_fib_ten Coverage Results" MODIFIED="1562962777705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/02" />
     <SUITE FILE_PATH="coverage/euler$Unittests_for_ettan_test_EulerOneTest.coverage" NAME="Unittests for ettan_test.EulerOneTest Coverage Results" MODIFIED="1562930246761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/01" />
     <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_two_test_EulerTwoTest_test_fib_seq_four.coverage" NAME="Unittests for euler_two_test.EulerTwoTest.test_fib_seq_four Coverage Results" MODIFIED="1562965571146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/02" />
+    <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_four_test_EulerFourTest.coverage" NAME="Unittests for euler_four_test.EulerFourTest Coverage Results" MODIFIED="1563230069722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/04" />
     <SUITE FILE_PATH="coverage/euler@test_multiples_of_tree_under_ten__ruby_euler.rcov" NAME="test_multiples_of_tree_under_ten: ruby-euler Coverage Results" MODIFIED="1562834805867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/test/ruby" MODULE_NAME="ruby-euler" />
     <SUITE FILE_PATH="coverage/euler$Unittests_in_euler_two_test_py.coverage" NAME="Unittests in euler_two_test.py Coverage Results" MODIFIED="1562962770110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/02" />
     <SUITE FILE_PATH="coverage/euler$fib.coverage" NAME="fib Coverage Results" MODIFIED="1562963214259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/02" />
     <SUITE FILE_PATH="coverage/euler@Run_test__FrameTest___ruby.rcov" NAME="Run test 'FrameTest': ruby Coverage Results" MODIFIED="1562936435341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ruby" MODULE_NAME="ruby" />
+    <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_four_test_EulerFourTest_test_3_digit_numbers.coverage" NAME="Unittests for euler_four_test.EulerFourTest.test_3_digit_numbers Coverage Results" MODIFIED="1563229462311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/04" />
     <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_two_test_EulerTwoTest_test_euler_two.coverage" NAME="Unittests for euler_two_test.EulerTwoTest.test_euler_two Coverage Results" MODIFIED="1562968273416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/02" />
     <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_two_test_EulerTwoTest_test_euler_two_func.coverage" NAME="Unittests for euler_two_test.EulerTwoTest.test_euler_two_func Coverage Results" MODIFIED="1562969682771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/02" />
+    <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_five_test_EulerFiveTest_test_division_with_one_to_twenty_2.coverage" NAME="Unittests for euler_five_test.EulerFiveTest.test_division_with_one_to_twenty_2 Coverage Results" MODIFIED="1563470473739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/05" />
     <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_two_test_EulerTwoTest_test_fib_four.coverage" NAME="Unittests for euler_two_test.EulerTwoTest.test_fib_four Coverage Results" MODIFIED="1562965267465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/02" />
     <SUITE FILE_PATH="coverage/euler@Run_test__FrameTest___ruby_euler.rcov" NAME="Run test 'FrameTest': ruby-euler Coverage Results" MODIFIED="1562880713064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" MODULE_NAME="ruby-euler" />
     <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_two_test_EulerTwoTest.coverage" NAME="Unittests for euler_two_test.EulerTwoTest Coverage Results" MODIFIED="1562968316457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/02" />
+    <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_three_test_EulerThreeTest_test_prime_factors_of_600851475143_wiki.coverage" NAME="Unittests for euler_three_test.EulerThreeTest.test_prime_factors_of_600851475143_wiki Coverage Results" MODIFIED="1563223792822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/03" />
+    <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_three_test_EulerThreeTest.coverage" NAME="Unittests for euler_three_test.EulerThreeTest Coverage Results" MODIFIED="1563225093426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/03" />
+    <SUITE FILE_PATH="coverage/euler$Unittests_in_euler_four_test_py.coverage" NAME="Unittests in euler_four_test.py Coverage Results" MODIFIED="1563230078133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/04" />
     <SUITE FILE_PATH="coverage/euler$Unittests_for_ettan_test_EulerOneTest__1_.coverage" NAME="Unittests for ettan_test.EulerOneTest Coverage Results" MODIFIED="1562937505129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/01" />
-    <SUITE FILE_PATH="coverage/euler$Unittests_for_euler_two_test_EulerTwoTest_test_fib_ten.coverage" NAME="Unittests for euler_two_test.EulerTwoTest.test_fib_ten Coverage Results" MODIFIED="1562962777705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/python/02" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/python/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/src/main/1/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/src/test/python/1/ettan_test.py" />
-    <entry file="file://$PROJECT_DIR$/src/test/ruby/1/ettan_test.rb" />
-    <entry file="file://$PROJECT_DIR$/src/main/2/fib.py" />
-    <entry file="file://$PROJECT_DIR$/src/01/ettan.rb" />
-    <entry file="file://$PROJECT_DIR$/src/01/ettan_test.rb" />
-    <entry file="file://$PROJECT_DIR$/src/01/ettan_test.py" />
-    <entry file="file://$PROJECT_DIR$/src/01/ettan.py" />
     <entry file="file://$PROJECT_DIR$/src/02/test_tvaan.rb" />
     <entry file="file://$PROJECT_DIR$/src/hask/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -502,16 +557,6 @@
     <entry file="file://$PROJECT_DIR$/src/ruby/01/ettan_test.rb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/python/01/ettan_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="22" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/python/02/fib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -522,27 +567,105 @@
     <entry file="file://$PROJECT_DIR$/src/python/02/fib.scala">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/python/03/euler_three_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="614" selection-start-line="614" selection-end-line="614" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/python/02/euler_two_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="51" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+        <state relative-caret-position="255">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/python/01/ettan_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ruby/04/four.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/python/04/euler_four.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ruby/05/five.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/python/04/euler_four_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#1#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/python/01/ettan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="238">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/python/02/euler_two.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="425">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/python/03/euler_three.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" selection-start-line="9" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/python/05/euler_five_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/python/05/euler_five.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
         </state>
       </provider>
     </entry>
