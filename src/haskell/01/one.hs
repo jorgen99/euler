@@ -1,11 +1,10 @@
 module Main where
 
 mod3or5 :: Int -> Int
-mod3or5 number =
-  if number `mod` 3 == 0 || number `mod` 5 == 0
-    then number
-  else
-    0
+mod3or5 number
+  | number `mod` 3 == 0 = number
+  | number `mod` 5 == 0 = number
+  | otherwise = 0
 
 -- with map
 sumMap :: Int -> Int
